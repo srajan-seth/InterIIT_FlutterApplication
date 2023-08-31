@@ -1,16 +1,14 @@
-# flutterapp
+<img width="382" alt="Screenshot 2023-08-31 155148" src="https://github.com/srajan-seth/InterIIT_FlutterApplication/assets/142350152/36ee1977-eb32-46b0-8195-71372b40a47e">
 
-A new Flutter project.
+<img width="326" alt="Screenshot 2023-08-31 155216" src="https://github.com/srajan-seth/InterIIT_FlutterApplication/assets/142350152/be8dadb0-a3bb-4dc3-b716-40f4581f9f94">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Flutterapp
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This app development project is for interiit ps. It is a Flutter project ,a cross platform development, which is coded in dart language. The application contains the feature from the three sector that is 
+1)EdTech
+2)Health Tech
+3)Food Tech
+The application have three feature from each sector. 
+The features contains: Todo app, Water Tracker and Boiling timer.
+Some of the screenshots are attached above.
